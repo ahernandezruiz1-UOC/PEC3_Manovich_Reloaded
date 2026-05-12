@@ -1,2 +1,40 @@
-# PEC3_Manovich_Reloaded
-PEC3 de Cultura Digital sobre hibridación y software contemporáneo desde la perspectiva de Lev Manovich.
+# PEC3 - Manovich Reloaded
+
+## Autor
+Alex Hernández Ruiz
+
+---
+
+# Introducción
+
+---
+
+# Caso 1 — GeoGuessr
+
+## Descripción
+
+## Hibridación y software
+
+## Relación con Manovich
+
+## Reflexión personal
+
+---
+
+# Caso 2 — Twitch Plays Pokémon
+
+## Descripción
+
+## Hibridación y software
+
+## Relación con Manovich
+
+## Reflexión personal
+
+---
+
+# Conclusiones
+
+---
+
+# Bibliografía y referencias
