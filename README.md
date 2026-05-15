@@ -24,13 +24,19 @@ Para ello, el jugador tiene que analizar elementos visuales como señales de tr�
 
 La plataforma también incorpora sistemas competitivos, temporizadores, rankings y modos multijugador transformando la navegación cartográfica y la observación visual en una dinámica propia del videojuego moderno.
 ## Hibridación y software
-
-## Relación con Manovich
 Desde la perspectiva del teórico ruso, este juego representa un claro caso de hibridación digital entre cartografía interactiva, bases de datos visuales, navegación espacial y mecánicas de videojuego. La plataforma transforma la exploración geográfica en una experiencia completamente mediada por el software.
 
 La principal hibridación aparece cuando herramientas originalmente creadas para la navegación, como Google Street View, dejan de funcionar únicamente como serivicio cartográfico y se integra dentro de una lógica jugable e interactiva. El software reorganiza estos medios para convertir la observación del entorno en una mecánica competitiva basada en la deducción y descubrimiento. El usuario ya no utiliza el mapa únicamente para orientarse, sino para interpretar el espacio y participar activametne dentro de la experiencia digital. 
 
 No se trata simplemente de combinar mapas e imágenes, sino de generar una nueva forma de interacción digital donde navegación, juego y exploración visual funcionan simultáneamente mediante software. 
+## Relación con Manovich
+Este juego puede analizarse desde varios de los conceptos de Lev Manovich en "_El software toma el mando_". En primer lugar, aparece la **modularidad**, ya que la plataforma funciona mediante millones de imágenes independientes organizadas dentro de una base de datos visual perteneciente a Google Street View. El software elige y conecta esos fragmentos visuales para construir cada partida.
+
+Por otro lado, podemos identficiar la **variabilidad**, porque cada experiencia cambia dependiendo de las localizaciones generadas, el modo de juego o las decisiones del jugador. No existen dos partidas exactamente iguales, algo característico de los nuevos medios digitales descritos por Manovich.
+
+Otro concepto es la **transcodificación cultural**. El espacio físico real se transforma en datos navegables e imágenes digitales organizadas de manera algorítmica mediante software. La experiencia de viajar o explorar el mudno deja de producirse físicamente y pasa a realizarse a través de la interfaz digital interactiva.
+
+Por último, puede entenderse GeoGuessr como ejemplo de **metamedio**, ya que el software reorganiza y combina diferentes medios existentes (cartografía, fotografía panorámica, navegación e interacción) para crear una experiencia nueva que no puede entenderse desde uno de esos medios por separado.
 
 ---
 
