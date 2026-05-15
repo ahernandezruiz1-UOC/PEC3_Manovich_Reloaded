@@ -84,7 +84,7 @@ A medida que avanzaba el directo, se creó una gran comunidad alrededor del proy
 
 La retransmisión se mantuvo activa durante semanas y terminó convirtiéndose en uno de los ejemplos más recordados y representativos de participación colectiva e interacción digital en el mundo del streaming.
 
-![Twitch Plays Pokémon comunidad](URL_DE_LA_CAPTURA)
+![Twitch Plays Pokémon comunidad](https://github.com/ahernandezruiz1-UOC/PEC3_Manovich_Reloaded/blob/main/img/TPP%20YouTube.PNG?raw=true)
 
 *Ver ejemplo de Twitch Plays Pokémon en YouTube.*
 
