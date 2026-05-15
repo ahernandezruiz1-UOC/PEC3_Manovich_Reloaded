@@ -110,9 +110,9 @@ Este análisis me ha permitido entender mejor cómo la **hibridación digital** 
 # Bibliografía y referencias
 - Manovich, Lev. *El software toma el mando*. Editorial UOC, 2013.
 - Manovich, Lev. *El lenguaje de los nuevos medios*. Paidós, 2005.
-- GeoGuessr. https://www.geoguessr.com/
-- Twitch. https://www.twitch.tv/
-- Wikipedia. “Twitch Plays Pokémon”. https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon
+- [GeoGuessr](https://www.geoguessr.com/)
+- [Twitch](https://www.twitch.tv/)
+- [Wikipedia — Twitch Plays Pokémon](https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)
   
 # Uso de IA
 Para la realización de esta PEC se ha utilizado inteligencia artificial como apoyo puntual en tareas de estructuración y revisión ortográficas. El análisis, la selección de los casos y la redacción final han sido supervisados y desarrollados por el autor de forma manual. 
