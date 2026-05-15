@@ -53,6 +53,11 @@ Desde la perspectiva del teórico ruso, este juego representa un claro caso de h
 La principal hibridación aparece cuando herramientas originalmente creadas para la navegación, como Google Street View, dejan de funcionar únicamente como servicio cartográfico y se integra dentro de una lógica jugable e interactiva. El software reorganiza estos medios para convertir la observación del entorno en una mecánica competitiva basada en la deducción y descubrimiento. El usuario ya no utiliza el mapa únicamente para orientarse, sino para interpretar el espacio y participar activamente dentro de la experiencia digital. 
 
 No se trata simplemente de combinar mapas e imágenes, sino de generar una **nueva forma de interacción digital** donde navegación, juego y exploración visual funcionan simultáneamente mediante software. 
+
+> *“Los medios híbridos intercambian propiedades y crean nuevas estructuras de experiencia.”*
+>
+> — Lev Manovich, *El Software toma el mando* (2013)
+
 ## Relación con Manovich
 Este juego puede analizarse desde varios de los conceptos de Lev Manovich en "_El software toma el mando_". En primer lugar, aparece la **modularidad**, ya que la plataforma funciona mediante millones de imágenes independientes organizadas dentro de una base de datos visual perteneciente a **Google Street View**. El software elige y conecta esos fragmentos visuales para construir cada partida.
 
