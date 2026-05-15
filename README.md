@@ -10,7 +10,7 @@ Lev Manovich analizó en *El lenguaje de los nuevos medios* y *El Software toma 
 El autor plantea el concepto de hibridación como la creación de nuevos medios nacidos de la integración entre bases de datos, imágenes, navegación, interfaces e interacción mediante software.
 
 En la actualidad, esta idea de hibridación sigue evolucionando a través de plataformas y experiencias digitales que ya no pueden entenderse solamente desde un único medio. Videojuegos, sistemas de streaming, cartografía digital o comunidades online se fusionan de manera constante mediante software para generar nuevas formas culturales e interactivas.
-> “El resultado de la hibridación no es una simple suma de medios existentes, sino una nueva ‘especie’ de medio.”
+> *“El resultado de la hibridación no es una simple suma de medios existentes, sino una nueva ‘especie’ de medio.”*
 >
 > — Lev Manovich, *El Software toma el mando* (2013)
 
