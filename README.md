@@ -1,5 +1,6 @@
 # PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 ![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey)
+Repositorio correspondiente a la PEC3 de Cultura Digital (UOC): análisis de dos casos contemporáneos de hibridación digital desde las ideas de Lev Manovich.
 
 **Autor:** Alex Hernández Ruiz  
 **Asignatura:** Cultura Digital  
@@ -117,7 +118,7 @@ Además, se permite observar cómo actividades que pertenecían a contextos muy 
 
 Este análisis me ha permitido entender mejor cómo la **hibridación digital** no consiste únicamente en mezclar tecnologías o formatos, sino en modificar la forma en que las personas hacen uso de los **medios digitales**. Estos dos casos que elegí demuestran que el software puede organizar nuevas formas de **participación cultural y social**.
 
-
+---
 # Bibliografía y referencias
 - Manovich, Lev. *El software toma el mando*. Editorial UOC, 2013.
 - Manovich, Lev. *El lenguaje de los nuevos medios*. Paidós, 2005.
@@ -127,3 +128,6 @@ Este análisis me ha permitido entender mejor cómo la **hibridación digital** 
   
 # Uso de IA
 Para la realización de esta PEC se ha utilizado inteligencia artificial como apoyo puntual en tareas de estructuración y revisión ortográficas. El análisis, la selección de los casos y la redacción final han sido supervisados y desarrollados por el autor de forma manual. 
+
+# Licencia
+Este proyecto se publica bajo licencia Creative Commons CC BY-SA 4.0.
