@@ -83,6 +83,12 @@ El funcionamiento consistía en que cada uno de los mensajes enviados por cada u
 A medida que avanzaba el directo, se creó una gran comunidad alrededor del proyecto. Los espectadores comenzaron a hacer memes, narrativas y hasta una especie de "religión" ficticia relacionada con uno de los Pokémon que formaba parte del equipo. Este fenómeno superó el millón de participantes y convirtió una partida individual de Pokémon en una experiencia social compartida en tiempo real.
 
 La retransmisión se mantuvo activa durante semanas y terminó convirtiéndose en uno de los ejemplos más recordados y representativos de participación colectiva e interacción digital en el mundo del streaming.
+
+### Vídeo de referencia
+
+Ejemplo del funcionamiento colectivo de Twitch Plays Pokémon en Twitch:
+https://www.youtube.com/watch?v=pY-4itAGyRU
+
 ## Hibridación y software
 Desde la perspectiva de Manovich, **Twitch Plays Pokémon** representa la hibridación entre streaming en directo, videojuego, interacción social y automatización mediante software. La plataforma convierte una experiencia tradicionalmente individual, como es jugar la aventura de **Pokémon**, en un sistema colectivo donde miles de usuarios participan simultáneamente a través de una interfaz digital compartida.
 
