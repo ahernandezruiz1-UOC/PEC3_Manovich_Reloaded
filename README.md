@@ -6,6 +6,7 @@
 **Autor** : Alex Hernández Ruiz
 
 **Fecha**: 15/05/2026
+
 ![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey)
 ---
 
