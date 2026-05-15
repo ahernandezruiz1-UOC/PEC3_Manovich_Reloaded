@@ -56,7 +56,7 @@ No se trata simplemente de combinar mapas e imágenes, sino de generar una **nue
 ## Relación con Manovich
 Este juego puede analizarse desde varios de los conceptos de Lev Manovich en "_El software toma el mando_". En primer lugar, aparece la **modularidad**, ya que la plataforma funciona mediante millones de imágenes independientes organizadas dentro de una base de datos visual perteneciente a **Google Street View**. El software elige y conecta esos fragmentos visuales para construir cada partida.
 
-Por otro lado, podemos identficiar la **variabilidad**, porque cada experiencia cambia dependiendo de las localizaciones generadas, el modo de juego o las decisiones del jugador. No existen dos partidas exactamente iguales, algo característico de los nuevos medios digitales descritos por Manovich.
+Por otro lado, podemos identificar la **variabilidad**, porque cada experiencia cambia dependiendo de las localizaciones generadas, el modo de juego o las decisiones del jugador. No existen dos partidas exactamente iguales, algo característico de los nuevos medios digitales descritos por Manovich.
 
 Otro concepto es la **transcodificación cultural**. El espacio físico real se transforma en datos navegables e imágenes digitales organizadas de manera algorítmica mediante software. La experiencia de viajar o explorar el mundo deja de producirse físicamente y pasa a realizarse a través de la interfaz digital interactiva.
 
@@ -77,7 +77,7 @@ El funcionamiento consistía en que cada uno de los mensajes enviados por cada u
 
 A medida que avanzaba el directo, se creó una gran comunidad alrededor del proyecto. Los espectadores comenzaron a hacer memes, narrativas y hasta una especie de "religión" ficticia relacionada con uno de los Pokémon que formaba parte del equipo. Este fenómeno superó el millón de participantes y convirtió una partida individual de Pokémon en una experiencia social compartida en tiempo real.
 
-La retransmisión se mantuvo activa durante semanas y terminó convirtiéndose en uno de los ejemplos más recordados y representativos de participación colectiva e interación digital en el mundo del streaming.
+La retransmisión se mantuvo activa durante semanas y terminó convirtiéndose en uno de los ejemplos más recordados y representativos de participación colectiva e interacción digital en el mundo del streaming.
 ## Hibridación y software
 Desde la perspectiva de Manovich, **Twitch Plays Pokémon** representa la hibridación entre streaming en directo, videojuego, interacción social y automatización mediante software. La plataforma convierte una experiencia tradicionalmente individual, como es jugar la aventura de **Pokémon**, en un sistema colectivo donde miles de usuarios participan simultáneamente a través de una interfaz digital compartida.
 
@@ -88,7 +88,7 @@ El experimento también modifica completamente la relación tradicional entre ju
 Por esto, **Twitch Plays Pokémon** va más allá de la multimedia tradicional. Fusiona un videojuego con un chat generando una forma de interacción digital colectiva única donde streaming, comunidad y gameplay funcionan de la mano.
 
 ## Relación con Manovich
-Este caso está asociado con diversos conceptos desarrollados por Manovich en *El software toma el mando*. Uno de los más claros es la **interactividad**, ya que la audiencia no se limita solamente a observar la retransmisión, si no que participa directamente en el desarrollo de la partida mediante comandos enviados en el chat.
+Este caso está asociado con diversos conceptos desarrollados por Manovich en *El software toma el mando*. Uno de los más claros es la **interactividad**, ya que la audiencia no se limita solamente a observar la retransmisión, sino que participa directamente en el desarrollo de la partida mediante comandos enviados en el chat.
 
 También podemos identificar la **modularidad**, porque el sistema funciona a partir de miles de mensajes independientes que el software procesa y convierte en acciones dentro del videojuego. Cada comando actúa como una unidad individual que pasa a formar parte de una experiencia colectiva mucho mayor.
 
@@ -100,7 +100,7 @@ Por último, **Twitch Plays Pokémon** refleja una de las ideas centrales del te
 
 ---
 # Conclusiones
-El análisis de estos dos ejemplos demuestra cómo mucha de las ideas planteadas por **Lev Manovich** siguen siendo totalmente actuales dentro de la **cultura digtal contemporánea**. Ambos casos reflejan que el software funciona como el elemento capaz de reorganizar medios, comportamientos e interacciones para crear experiencias completamente nuevas.
+El análisis de estos dos ejemplos demuestra cómo mucha de las ideas planteadas por **Lev Manovich** siguen siendo totalmente actuales dentro de la **cultura digital contemporánea**. Ambos casos reflejan que el software funciona como el elemento capaz de reorganizar medios, comportamientos e interacciones para crear experiencias completamente nuevas.
 
 Además, se permite observar cómo actividades que pertenecían a contextos muy distintos, como la **exploración geográfica** o una partida de **Pokémon**, pueden transformarse mediante software en **experiencias colectivas**, interactivas y conectadas a Internet.
 
@@ -108,5 +108,11 @@ Este análisis me ha permitido entender mejor cómo la **hibridación digital** 
 
 
 # Bibliografía y referencias
-
+- Manovich, Lev. *El software toma el mando*. Editorial UOC, 2013.
+- Manovich, Lev. *El lenguaje de los nuevos medios*. Paidós, 2005.
+- GeoGuessr. https://www.geoguessr.com/
+- Twitch. https://www.twitch.tv/
+- Wikipedia. “Twitch Plays Pokémon”. https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon
+  
 # Uso de IA
+Para la realización de esta PEC se ha utilizado inteligencia artificial como apoyo puntual en tareas de estructuración y revisión ortográficas. El análisis, la selección de los casos y la redacción final han sido supervisados y desarrollados por el autor de forma manual. 
