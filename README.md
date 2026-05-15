@@ -72,6 +72,7 @@ Fue un experimento social emitido en la plataforma de streaming **Twitch** en 20
 El funcionamiento consistía en que cada uno de los mensajes enviados por cada usuario era interpretado automáticamente por un programa que convertía las órdenes directamente al videojuego. Comandos como "up", "down", "a" o "start" permitían mover al personaje, interactuar con objetos, consultar el menú y avanzar dentro de la partida. Debido a la inmensa cantidad de participantes, el resultado fue una experiencia caótica, impredecible y completamente colectiva.
 
 ![Twitch Plays Pokémon](https://upload.wikimedia.org/wikipedia/en/1/15/Twitch_plays_pokemon_animated.gif)
+
 *Figura 2. Funcionamiento colectivo de Twitch Plays Pokémon mediante comandos enviados por el chat en tiempo real.*
 
 A medida que avanzaba el directo, se creó una gran comunidad alrededor del proyecto. Los espectadores comenzaron a hacer memes, narrativas y hasta una especie de "religión" ficticia relacionada con uno de los Pokémon que formaba parte del equipo. Este fenómeno superó el millón de participantes y convirtió una partida individual de Pokémon en una experiencia social compartida en tiempo real.
