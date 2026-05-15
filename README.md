@@ -1,10 +1,12 @@
 # PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
 
-**Asignatura**: Cultura Digital 
-**Autor** : Alex Hernández Ruiz
-**Fecha**: 15/05/2026
+**Asignatura**: Cultura Digital
 
+**Autor** : Alex Hernández Ruiz
+
+**Fecha**: 15/05/2026
+![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey)
 ---
 
 # Índice
