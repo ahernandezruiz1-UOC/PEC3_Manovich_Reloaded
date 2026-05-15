@@ -1,5 +1,6 @@
 # PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 ![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey)
+
 Repositorio correspondiente a la PEC3 de Cultura Digital (UOC): análisis de dos casos contemporáneos de hibridación digital desde las ideas de Lev Manovich.
 
 **Autor:** Alex Hernández Ruiz  
