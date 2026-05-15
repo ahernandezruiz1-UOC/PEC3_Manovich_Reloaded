@@ -1,10 +1,22 @@
-# PEC3 - Manovich Reloaded
-
-## Autor
-Alex Hernández Ruiz
-
+# PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 ---
+**Asignatura**: Cultura Digital 
+**Autor** : Alex Hernández Ruiz
+**Fecha**: 15/05/2026
+---
+# Índice
 
+- [Introducción](#introducción)
+- [Caso 1 — GeoGuessr](#caso-1--geoguessr)
+  - [Descripción](#descripción)
+  - [Hibridación y software](#hibridación-y-software)
+  - [Relación con Manovich](#relación-con-manovich)
+- [Caso 2 — Twitch Plays Pokémon](#caso-2--twitch-plays-pokémon)
+  - [Descripción](#descripción-1)
+  - [Hibridación y software](#hibridación-y-software-1)
+  - [Relación con Manovich](#relación-con-manovich-1)
+- [Conclusiones](#conclusiones)
+- [Bibliografía y referencias](#bibliografía-y-referencias)
 # Introducción
 Lev Manovich analizó en *El lenguaje de los nuevos medios* y *El Software toma el mando* cómo el software transforma los medios y genera nuevas formas de interacción, representación y experiencias digitales.
 El autor plantea el concepto de hibridación como la creación de nuevos medios nacidos de la integración entre bases de datos, imágenes, navegación, interfaces e interacción mediante software.
