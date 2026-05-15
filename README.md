@@ -43,14 +43,24 @@ Por último, puede entenderse **GeoGuessr** como ejemplo de **metamedio**, ya qu
 # Caso 2 — Twitch Plays Pokémon
 
 ## Descripción
+Fue un experimento social emitido en la plataforma de streaming **Twitch** en 2014 donde miles de espectadores controlaban colectviamente una partida del videojuego *Pokémon Rojo* mediante comandos escritos en el chat en tiempo real.
 
+El funcionamiento consistía en que cada uno de los mensajes enviados por cada usuario era interpretado automáticamente por un programa que convertía las órdenes directamente al videojuego. Comandos como "up", "down", "a" o "start" permitían mover al personaje, interactuar con objetos, consultar el menú y avanzar dentro de la partida. Debido a la inmensa cantidad de participantes, el resultado fue una experiencia caótica, impredecible y completamente colectiva.
+
+A medida que avanzaba el directo, se creó una gran comunidad alrededor del proyecto. Los espectadores comenzaron a hacer memes, narrativas y hasta una especie de "religión" ficticia relacionada con uno de los Pokémon que formaba parte del equipo. Este fenómeno superó el millón de participantes y convirtió una partida individual de Pokémon en una experiencia social compartida en tiempo real.
+
+La retransmisión se mantuvo activa durante semanas y terminó convirtiéndose en uno de los ejemplos más recordados y representativos de participación colectiva e interración digital en el mundo del streaming.
 ## Hibridación y software
+Desde la perspectiva de Manovich, **Twitch Plays Pokémon** representa la hibridación entre streaming en directo, videojuego, interacción social y automatización mediante software. La plataforma convierte una experiencia tradicionalmente individual, como es jugar la aventura de **Pokémon**, en un sistema colectivo donde miles de usuarios participan simultáneamente a través de una interfaz digital compartida.
+
+La principal hibridación aparece cuando el chat de **Twitch** deja de funcionar solo como espacio de comunicación entre espectadores y pasa a convertirse en el propio sistema de control del videojuego. El software interpreta de manera automática cada mensaje enviado por los usuarios y lo traduce en acciones, fusionando conversación, participación comunitaria y gameplay en vivo.
+
+El experimento también modifica completamente la relación tradicional entre jugador y audiencia. El espectador deja de ser un observador pasivo e interivene directamente sobre el medio, convirtiéndose en parte activa del sistema interactivo. La partida deja de pertenecer a un único jugador, si no a una mente colectiva mediada por software.
+
+Por esto, **Twitch Plays Pokémon** va más allá de la multimedia tradicional. Fusiona un videojuego con un chat generando una forma de interacción digital colectiva única donde streaming, comunidad y gameplay funcionan de la mano.
 
 ## Relación con Manovich
 
-## Reflexión personal
-
----
 
 # Conclusiones
 
