@@ -18,12 +18,19 @@ En esta PEC se analizarán dos casos de hibridación digital: *GeoGuessr* y *Twi
 # Caso 1 — GeoGuessr
 
 ## Descripción
+Es una plataforma online lanzada en 2013 que transforma la exploración geográfica en una experiencia jugable e interactiva utilizando Google Street View. El funcionamiento del juego consiste en situar al usuario en un punto aleatorio del mundo para que, observando el entorno, intente adivinar la ubicación exacta dentro del mapa en la que se encuentra.
 
+Para ello, el jugador tiene que analizar elementos visuales como señales de tráfico, carreteras, idioma, arquitectura, etc... Cuanto más cerca esté la localización elegida de la real, mayor puntuación recibirá.
+
+La plataforma también incorpora sistemas competitivos, temporizadores, rankings y modos multijugador transformando la navegación cartográfica y la observación visual en una dinámica propia del videojuego moderno.
 ## Hibridación y software
 
 ## Relación con Manovich
+Desde la perspectiva del teórico ruso, este juego representa un claro caso de hibridación digital entre cartografía interactiva, bases de datos visuales, navegación espacial y mecánicas de videojuego. La plataforma transforma la exploración geográfica en una experiencia completamente mediada por el software.
 
-## Reflexión personal
+La principal hibridación aparece cuando herramientas originalmente creadas para la navegación, como Google Street View, dejan de funcionar únicamente como serivicio cartográfico y se integra dentro de una lógica jugable e interactiva. El software reorganiza estos medios para convertir la observación del entorno en una mecánica competitiva basada en la deducción y descubrimiento. El usuario ya no utiliza el mapa únicamente para orientarse, sino para interpretar el espacio y participar activametne dentro de la experiencia digital. 
+
+No se trata simplemente de combinar mapas e imágenes, sino de generar una nueva forma de interacción digital donde navegación, juego y exploración visual funcionan simultáneamente mediante software. 
 
 ---
 
