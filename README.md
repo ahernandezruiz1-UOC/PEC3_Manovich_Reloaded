@@ -13,6 +13,7 @@ En la actualidad, esta idea de hibridación sigue evolucionando a través de pla
 > “El resultado de la hibridación no es una simple suma de medios existentes, sino una nueva ‘especie’ de medio.”
 >
 > — Lev Manovich, *El Software toma el mando* (2013)
+
 En esta PEC se analizarán dos casos de hibridación digital: **GeoGuessr** y **Twitch Plays Pokémon**. Estos ejemplos muestran cómo el software transforma la relación entre usuario, interfaz y participación colectiva, convirtiendo la exploración geográfica y el streaming interactivo en experiencias híbridas donde los límites entre espectador, jugador y sistema digital son cada vez menos definidos.
 
 ---
