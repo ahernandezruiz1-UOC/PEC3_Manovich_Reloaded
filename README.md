@@ -73,9 +73,14 @@ Además, el experimento puede ser ejemplo de **metamedio**, ya que el software r
 
 Por último, **Twitch Plays Pokémon** refleja una de las ideas centrales del teórico ruso: el software como elemento capaz de reorganizar la participación y la experiencia cultural digital. La partida deja de depender de un único jugador y pasa a construirse mediante una inteligencia colectiva mediada por el algoritmo de la plataforma.
 
-# Conclusiones
-
 ---
+# Conclusiones
+El análisis de estos dos ejemplos demuestra cómo mucha de las ideas planteadas por **Lev Manovich** siguen siendo totalmente actuales dentro de la **cultura digtal contemporánea**. Ambos casos reflejan que el software funciona como el elemento capaz de reorganizar medios, comportamientos e interacciones para crear experiencias completamente nuevas.
+
+Además, se permite observar cómo actividades que pertenecían a contextos muy distintos, como la **exploración geográfica** o una partida de **Pokémon**, pueden transformarse mediante software en **experiencias colectivas**, interactivas y conectadas a Internet.
+
+Este análisis me ha permitido entender mejor cómo la **hibridación digital** no consiste únicamente en mezclar tecnologías o formatos, sino en modificar la forma en que las personas hacen uso de los **medios digitales**. Estos dos casos que elegí demuestran que el software puede organizar nuevas formas de **participación cultural y social**.
+
 
 # Bibliografía y referencias
 
