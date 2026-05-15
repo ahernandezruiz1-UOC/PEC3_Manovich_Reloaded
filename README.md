@@ -40,7 +40,7 @@ En esta PEC se analizarán dos casos de hibridación digital: **GeoGuessr** y **
 
 ## Descripción
 Es una plataforma online lanzada en 2013 que transforma la exploración geográfica en una experiencia jugable e interactiva utilizando **Google Street View**. El funcionamiento del juego consiste en situar al usuario en un punto aleatorio del mundo para que, observando el entorno, intente adivinar la ubicación exacta dentro del mapa en la que se encuentra.
-
+![GeoGuessr](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gibQkCDJEo/v0/-1x-1.webp)
 Para ello, el jugador tiene que analizar elementos visuales como señales de tráfico, carreteras, idioma, arquitectura, etc... Cuanto más cerca esté la localización elegida de la real, mayor puntuación recibirá.
 
 La plataforma también incorpora sistemas competitivos, temporizadores, rankings y modos multijugador transformando la navegación cartográfica y la observación visual en una dinámica propia del videojuego moderno.
